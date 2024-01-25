@@ -1,4 +1,4 @@
-# Predato-Prey Model
+# Predator-Prey Model
 The habitat is a 2D square, L = 10 units in size, periodic in all directions.
 Each animal is represented by an agent. There are two types of agents: rabbits and wolves.
 The simulations start with agents randomly distributed in the domain: Nr = 900 rabbits and Nw = 100 wolves.
